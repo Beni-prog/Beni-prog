@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring boot, REST APIs, AI.**
 
-- 📄 Know about my experiences [here.](https://www.linkedin.com/in/beniamin-ac%C4%83linei-636b45165/)
+- 📄 Get an insight about my experiences [here.](https://www.linkedin.com/in/beniamin-ac%C4%83linei-636b45165/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
